@@ -1,0 +1,2 @@
+# pupilica_ai_bootcamp_assignment
+Pupilica bootcamp odevler
